@@ -1,0 +1,19 @@
+.ban{
+    width: 100%;
+}
+.mainarea{
+    margin-top: 40px;
+}
+
+.card{
+    padding: 15px;
+    text-align: center;
+    -webkit-box-shadow: 2px 2px 2px 2px #B0B0B0;
+box-shadow: 2px 2px 2px 2px #B0B0B0;
+
+margin-bottom: 20px;
+}
+.card:hover{
+    -webkit-box-shadow: 4px 4px 4px 4px #B0B0B0;
+box-shadow:  4px 4px 4px 4px #B0B0B0;
+}
